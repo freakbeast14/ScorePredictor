@@ -1,6 +1,6 @@
 # Student Score Prediction with Supervised ML
 
-Welcome to the Graduate Rotational Internship Program at The Sparks Foundation! In Task 01 of Data Science and Business Analytics, we focus on predicting the percentage score of a student based on the number of hours studied. This task involves a straightforward application of supervised machine learning, specifically utilizing a simple linear regression model with two variables: hours studied and percentage score.
+Predicting the percentage score of a student based on the number of hours studied. This project involves a straightforward application of supervised machine learning, specifically utilizing a simple linear regression model with two variables: hours studied and percentage score.
 
 ## Objective
 
